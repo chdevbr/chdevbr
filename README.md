@@ -25,6 +25,8 @@ Sou apaixonado por aprender novas tecnologias, busco melhorar todos os dias e ad
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
+##
+
 **IDE/Editor**: VS Code, PyCharm  
 **Modo preferido**: Dark Mode 🌙  
 
