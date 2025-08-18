@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Carlos Henrique
+# 👋 Olá, eu sou Carlos Henrique
 
 Meu nome é **Carlos Henrique**, tenho 19 anos e moro em Recife. Atualmente estudo **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School**. Gosto sempre de aprender novas tecnologias, estou em busca de melhorar todos os dias e adoro colocar minhas ideias em código para resolver problemas.
 
@@ -8,6 +8,8 @@ Meu nome é **Carlos Henrique**, tenho 19 anos e moro em Recife. Atualmente estu
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <br>
 </div>
+
+---
 
 <div> 
   <a href="https://instagram.com/chdevbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
