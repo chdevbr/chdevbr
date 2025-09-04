@@ -11,7 +11,7 @@ Sou apaixonado por aprender novas tecnologias, busco melhorar todos os dias e ad
 * 💼 Jovem Aprendiz em um cartório de notas  
 * 💻 Interessado em desenvolvimento **Full Stack**  
 * 🌱 Explorando tecnologias como **Python, HTML, CSS e JavaScript**  
-* ☁️ Tenho interesse em aprender mais sobre **Cloud Computing** e **Cybersecurity**  
+* ☁️ Tenho interesse em aprender mais sobre **Dados** e **Cybersecurity**  
 * 🎯 Objetivo: conseguir um estágio em tecnologia para aperfeiçoar minhas habilidades  
 
 ---
