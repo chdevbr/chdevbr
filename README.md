@@ -27,7 +27,7 @@ Sou apaixonado por aprender novas tecnologias, busco melhorar todos os dias e ad
 
 ##
 
-**IDE/Editor**: VS Code, PyCharm  
+**IDE/Editor**: VS Code  
 **Modo preferido**: Dark Mode 🌙  
 
 ---
