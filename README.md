@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Carlos Henrique
 
-Meu nome é **Carlos Henrique**, tenho 120 anos e moro em Recife.  
+Meu nome é **Carlos Henrique**, tenho 20 anos e moro em Recife.  
 Atualmente estudo **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School**.  
 Sou apaixonado por aprender novas tecnologias, busco melhorar todos os dias e adoro transformar ideias em código para resolver problemas.
 
