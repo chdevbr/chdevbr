@@ -1,61 +1,33 @@
-# 👋 Olá, eu sou Carlos Henrique
+<h1 align="center">Olá 👋, Eu sou Carlos Henrique</h1>
+<h3 align="center">Atualmente trabalho no 8º Tabelionato de Notas do Recife e curso Análise e Desenvolvimento de Sistemas na CESAR School. Estou em constante evolução na área de tecnologia, com foco no desenvolvimento de soluções que impactam problemas reais. Tenho maior
 
-Meu nome é **Carlos Henrique**, tenho 20 anos e moro em Recife.  
-Atualmente estudo **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School**.  
-Sou apaixonado por aprender novas tecnologias, busco melhorar todos os dias e adoro transformar ideias em código para resolver problemas.
+camada de back-end, mas estou sempre aberto a novos desafios e oportunidades que contribuem para o meu crescimento como desenvolvedor
 
----
+. <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chdevbr" alt="chdevbr" /></a> </p>
 
-## 🚀 Sobre mim
-* 🎓 Estudante de ADS na CESAR School  
-* 💼 Atualmente trabalho em um cartório de notas  
-* 💻 Interessado em desenvolvimento **Full Stack**  
-* 🌱 Explorando tecnologias como **Python, HTML, CSS e JavaScript**  
-* ☁️ Tenho interesse em aprender mais sobre **Dados** e **Cybersecurity**  
-* 🎯 Objetivo: conseguir um estágio em tecnologia para aperfeiçoar minhas habilidades  
+- 🌱 O que estou aprendendo no momento **Lógica de programação, SQL, fundamentos de back-end e Dados.**
 
----
+- 👨‍💻 Projetos [https://github.com/chdevbr](https://github.com/chdevbr)
 
-## 🛠️ Tecnologias e Ferramentas
+- 💬 Pergunte-me Sobre **Minha jornada de transição para tecnologia e desenvolvimento de software**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
+- 📫 Contato **chdevbr@gmail.com**
 
-##
+- 📄 Saiba mais sobre minhas experiências [www.linkedin.com/in/carlos-henrique-05782437b](www.linkedin.com/in/carlos-henrique-05782437b)
 
-**IDE/Editor**: VS Code  
-**Modo preferido**: Dark Mode 🌙  
+- ⚡ Curiosidade **Acho que sou um dos poucos desenvolvedores que não gostam de café ☕😅**
 
----
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/carlos-henrique-05782437b" target="blank"><img align="center" <a href="https://instagram.com/chdevbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/carlos-henrique-05782437b" height="30" width="40" /></a>
+<a href="https://instagram.com/chdevbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chdevbr" height="30" width="40" /></a>
+</p>
 
-## 📊 Estatísticas do GitHub
+<h3 align="left">Idiomas e Ferramentas:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <a href="https://github.com/chdevbr">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chdevbr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chdevbr&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chdevbr&show_icons=true&locale=en&layout=compact" alt="chdevbr" /></p>
 
----
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=chdevbr&show_icons=true&locale=en" alt="chdevbr" /></p>
 
-## 📫 Conecte-se comigo
-
-<div> 
-  <a href="https://instagram.com/chdevbr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:chdevbr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/carlos-henrique-05782437b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
-
----
-
-## ☕ Curiosidade
-Talvez eu seja o único programador que não toma café 🚫☕
-
----
-
-✨ Sempre em busca de aprender, evoluir e compartilhar conhecimento!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chdevbr&" alt="chdevbr" /></p>
