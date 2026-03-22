@@ -1,89 +1,40 @@
-<h1 align="center">Olá 👋, Eu sou Carlos Henrique</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-Atuo no 8º Tabelionato de Notas do Recife e curso Análise e Desenvolvimento de Sistemas na CESAR School.<br>
-Sou focado em desenvolvimento back-end e dados, criando soluções que resolvem problemas reais com eficiência e escalabilidade.<br>
-Estou em constante evolução em arquitetura de sistemas, performance e construção de aplicações orientadas a negócio.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Carlos+Henrique;I'm+20+Years+Old;I'm+From+Recife,+PE;I+study+ADS+at+CESAR+School;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
----
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=chdevbr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Henrique github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chdevbr&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-## 🚀 Sobre mim
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chdevbr&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-- 🌱 Em evolução constante em: **Back-end, SQL, Python e Estrutura de Dados**
-- 👨‍💻 Projetos: <a href="https://github.com/chdevbr">GitHub</a>
-- 💬 Posso ajudar com: **Lógica de programação, SQL e Python**
-- 📫 Contato: **chdevbr@gmail.com**
-- 📄 Experiência profissional: <a href="https://www.linkedin.com/in/carlos-henrique-05782437b">LinkedIn</a>
+<div align="center">  
+<a href="https://www.instagram.com/chdevbr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+ 
+### Main skills:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=purple&labelColor=0D1117)&nbsp;
+ 
+### Tools:
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![DBeaver](https://img.shields.io/badge/-dbeaver-0D1117?style=for-the-badge&logo=dbeaver&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+![ClickUp](https://img.shields.io/badge/-clickup-0D1117?style=for-the-badge&logo=clickup&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+ 
+### Other Knowledge:
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=1572B6&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![SQL](https://img.shields.io/badge/-sql-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&logoColor=purple&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
----
-
-## 🧠 Foco atual
-
-- 🏗️ Desenvolvimento back-end e APIs
-- ⚡ Otimização de consultas SQL
-- 🧩 Boas práticas e código limpo
-- 🔐 Segurança e autenticação
-- 📊 Manipulação e análise de dados
-- 🤖 Automação de processos
-
----
-
-## 🌐 Conecte-se comigo
-
-<p align="left">
-<a href="https://www.linkedin.com/in/carlos-henrique-05782437b" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Carlos%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/chdevbr" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@chdevbr-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://github.com/chdevbr" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-chdevbr-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Backend & Dados
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-</p>
-
-### Frontend (apoio)
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-</p>
-
-### Dev & Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chdevbr&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chdevbr&show_icons=true&locale=pt-br&theme=tokyonight" />
-</p>
-<br>
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chdevbr&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Objetivo
-
-Construir sistemas escaláveis, eficientes e orientados a negócio, evoluindo constantemente como desenvolvedor e criando soluções que gerem impacto real.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
