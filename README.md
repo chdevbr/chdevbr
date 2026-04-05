@@ -4,7 +4,7 @@
 
 ##
 
-<div align="left">
+<div align="center">
   <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=chdevbr&show_icons=true&theme=merko&bg_color=000000"/>
   <img height="160em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=chdevbr&layout=compact&show_icons=true&theme=merko&bg_color=000000"/>
 </div>
