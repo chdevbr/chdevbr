@@ -30,6 +30,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![DBeaver](https://img.shields.io/badge/-dbeaver-0D1117?style=for-the-badge&logo=dbeaver&labelColor=0D1117)&nbsp;
+![MinIO](https://img.shields.io/badge/-minio-0D1117?style=for-the-badge&logo=minio&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![ClickUp](https://img.shields.io/badge/-clickup-0D1117?style=for-the-badge&logo=clickup&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
